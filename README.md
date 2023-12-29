@@ -1,3 +1,17 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/anshul-bagaria-50b341226/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshul-2010&style=flat-square&color=blue" alt="" align="center"/>
+</div>
+
 ## Anshul Bagaria
 ## Indian Institute of Technology, Madras
 ## Technical Skills
