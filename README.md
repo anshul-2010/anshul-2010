@@ -18,7 +18,7 @@
 
 💼 Professionally, I've contributed as an ML Developer intern at SiddhaAI, working on AI-driven Diabetic Retinopathy diagnosis. Additionally, I've been a part of research endeavors at the Indian Institute of Science, optimizing segmentation models for multi-organ tasks.
 
-🚀 My experiences extend to projects at the intersection of ML, Computer Vision, and Robotics, showcasing my diverse skill set.
+🚀 My experiences extend to projects at the intersection of ML, Computer Vision, and Domain Adaptation, showcasing my diverse skill set.
 
 📚 Explore my GitHub for insights into my projects and research interests.
 
