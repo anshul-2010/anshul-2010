@@ -38,6 +38,7 @@
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.coursehunter.net%2Fcategory%2Fopencv.png&f=1&nofb=1&ipt=8556a51d97457fea42ce6a40776793586c0e5ff1711e8a772460ae2edde907e2&ipo=images" alt="OpenCV" width="100">](https://opencv.org/)
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkeepcoding.io%2Fwp-content%2Fuploads%2F2023%2F02%2Fimage-85.png&f=1&nofb=1&ipt=21652716f45ae393dd0e4bc15d99dd6facfd1fbf9447e64b4ee00ff76d499c62&ipo=images" alt="NLTK" width="100">](https://www.nltk.org/)
 [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="100">](https://huggingface.co/docs)
+[<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="100">](https://git-scm.com)
 
 <br>
 
