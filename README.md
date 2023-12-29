@@ -13,6 +13,15 @@
 </div>
 
 ## Anshul Bagaria
+
+👋 Hello, I'm Anshul Bagaria, a passionate researcher and current student in the Dual Degree program for Biological Engineering at the Indian Institute of Technology, Madras. My academic journey has equipped me with a strong foundation in interdisciplinary research, ranging from Computational Neuroscience to Algorithms in Computational Geometry.
+
+💼 Professionally, I've contributed as an ML Developer intern at SiddhaAI, working on AI-driven Diabetic Retinopathy diagnosis. Additionally, I've been a part of research endeavors at the Indian Institute of Science, optimizing segmentation models for multi-organ tasks.
+
+🚀 My experiences extend to projects at the intersection of ML, Computer Vision, and Robotics, showcasing my diverse skill set.
+
+📚 Explore my GitHub for insights into my projects and research interests.
+
 ## Indian Institute of Technology, Madras
 ## Technical Skills
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
